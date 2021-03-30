@@ -1,6 +1,6 @@
 # 今日何しゃべろ？
 
-![iTunesArtwork@3x](https://user-images.githubusercontent.com/81378735/112977114-a5eca680-9190-11eb-8c18-64a9a4e09d64.png)
+![iTunesArtwork@1x](https://user-images.githubusercontent.com/81378735/112977227-c288de80-9190-11eb-831d-aef7266c76c0.png)
 
 「今日何しゃべろ？」は、人とおしゃべりするときに、話のテーマを提案してくれるシンプルなアプリです。
 真ん中のボタンをタップするとランダムでテーマが表示されます。
