@@ -1,4 +1,4 @@
-# 今日何しゃべろ？
+# 何しゃべろ？
 
 ![iTunesArtwork@1x](https://user-images.githubusercontent.com/81378735/112977227-c288de80-9190-11eb-831d-aef7266c76c0.png)
 
